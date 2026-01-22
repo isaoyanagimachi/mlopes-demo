@@ -1,4 +1,4 @@
-
+name: azure ml
 on:
   push:
     branches: [ main ]
